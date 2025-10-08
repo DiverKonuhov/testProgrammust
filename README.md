@@ -7,5 +7,5 @@
 *ссылка на архив версий*
 https://unity.com/ru/releases/editor/archive
 
-*в один клик моей версии юнити*
+*в один клик моя версия юнити*
 https://unityhub://2022.3.46f1/8e9b8558c41a
