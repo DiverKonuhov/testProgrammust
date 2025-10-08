@@ -8,4 +8,4 @@
 https://unity.com/ru/releases/editor/archive
 
 *в один клик моей версии юнити*
-unityhub://2022.3.46f1/8e9b8558c41a
+https://unityhub://2022.3.46f1/8e9b8558c41a
